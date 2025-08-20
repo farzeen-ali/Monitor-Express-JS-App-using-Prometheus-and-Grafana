@@ -75,7 +75,7 @@ app.listen(PORT, "0.0.0.0", () => {
 Run the server:
 
 ```bash
-node server.js
+npm start
 ```
 
 👉 Open in browser: [http://localhost:3001/metrics](http://localhost:3001/metrics) to see Prometheus metrics.
